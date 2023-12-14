@@ -21,7 +21,7 @@ jobs:
         run: |
           git pull
           git config --global user.email "cubmutrans@gmail.com"
-          git config --global user.name "cubmutran"
+          git config --global user.name "cubmu"
       - name: generate
         run: |
           cd epg/scripts
