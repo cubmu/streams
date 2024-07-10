@@ -20,8 +20,8 @@ jobs:
       - name: config
         run: |
           git pull
-          git config --global user.email "reinmclaren33@gmail.com"
-          git config --global user.name "Faizal Hamzah"
+          git config --global user.email "cubmutrans@gmail.com"
+          git config --global user.name "cubmu"
       - name: generate
         run: |
           cd epg/scripts
@@ -29,7 +29,7 @@ jobs:
           echo "Installing dependencies..."
           python3 -m pip install lxml pgzip requests
           echo "Generating EPG..."
-          python3 -u index.py -zo guide.xml --source="global/global.txt" --gen-name="Libretelevision" --gen-url="libretv.my.id"
+          python3 -u index.py -zo guide.xml --source="global/global.txt" --gen-name="cubmu" --gen-url="cubmu.my.id"
           mv -v guide.xml.gz ..
           cd ../..
       - name: commit
