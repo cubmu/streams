@@ -1,3 +1,5 @@
+starhub
+https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
 
 astro1
 https://azimabid00.github.io/epg/astro_epg.xml
@@ -254,5 +256,3 @@ https://www.bevy.be/bevyfiles/indonesiapremium3.xml
 indonesiapremium4.xml
 https://www.bevy.be/bevyfiles/indonesiapremium4.xml
 
-indonesiapremium5.xml
-https://epgtvku.000webhostapp.com/EPG/oxygen/VTV.xml
