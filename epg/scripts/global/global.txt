@@ -1,3 +1,9 @@
+
+mewatch1
+https://minimalterimakasihudin.pages.dev/epgmewatch.xml
+
+mewatch2
+https://minimalterimakasihudin.pages.dev/mewatchparis.xml.gz
 starhub
 https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
 
