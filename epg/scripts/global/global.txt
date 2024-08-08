@@ -1,3 +1,9 @@
+indihome
+https://xmltv.tvkaista.net/guides/indihometv.com.xml
+
+sporsnet
+https://xmltv.tvkaista.net/guides/watch.sportsnet.ca.xml
+
 starhub
 https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
 
