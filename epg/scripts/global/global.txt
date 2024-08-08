@@ -1,3 +1,21 @@
+starhub
+https://xmltv.tvkaista.net/guides/starhubtvplus.com.xml
+
+skycom
+https://xmltv.tvkaista.net/guides/sky.com.xml
+
+firstmedia
+https://xmltv.tvkaista.net/guides/firstmedia.com.xml
+
+cubmu
+https://xmltv.tvkaista.net/guides/cubmu.com.xml
+
+singtel
+https://xmltv.tvkaista.net/guides/i.mjh.nz_singtel.xml
+
+mewatch
+https://xmltv.tvkaista.net/guides/mewatch.sg.xml
+
 unifi
 https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
 
