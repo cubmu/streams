@@ -1,10 +1,6 @@
 unifi
 https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml
 
-
-starhub
-https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml
-
 astro1
 https://azimabid00.github.io/epg/astro_epg.xml
 
