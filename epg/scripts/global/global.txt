@@ -1,3 +1,6 @@
+astro
+https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
+
 indihome
 https://xmltv.tvkaista.net/guides/indihometv.com.xml
 
