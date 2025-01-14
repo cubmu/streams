@@ -1,3 +1,8 @@
+
+optus
+https://pc-x1s.pages.dev/os.xml
+
+
 astro
 https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml
 
